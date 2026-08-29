@@ -12,5 +12,5 @@ void main(){
     printf("the adress of c is:%p \n",&c);
     printf("the adress of d is:%p \n",&d);
     printf("the adress of e is:%p \n",&e);
-
+    printf(" ");
 }

@@ -12,5 +12,5 @@ void main(){
     printf("the size of double is:%d \n",sizeof(c));
     printf("the size of float is:%d \n",sizeof(d));
     printf("the size of bool is:%d \n",sizeof(e));
-    printf("size of datatype has been declared by akash!!!!");
+    printf("");
 }
